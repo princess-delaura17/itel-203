@@ -22,7 +22,7 @@
 
     padding: 50px;  
 
-  background-color: lavander;  
+  background-color: yellow;  
 
 }  
 
@@ -46,7 +46,7 @@ input[type=text], input[type=password], textarea {
 
 input[type=text]:focus, input[type=password]:focus {  
 
-  background-color: lavander;  
+  background-color: yellow;  
 
   outline: none;  
 
